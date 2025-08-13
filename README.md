@@ -26,8 +26,8 @@ The objective of this project was to:
 - Insights from the model can assist in streamlining the loan approval process.
 
 ## Project Structure
-
-DATA PROJECT-/
+```
+DATA PROJECT-2/
 │
 ├── data/                      # Dataset
 ├── SourceCode.ipynb           # Notebook containing code for data preprocessing, modeling, and evaluation
